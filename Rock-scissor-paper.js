@@ -44,8 +44,8 @@ startButton.addEventListener(
 
 // Set score value
 const score = {
-    rock: 0,
     scissor: 1,
+    rock: 0,
     paper: -1,
 }
 

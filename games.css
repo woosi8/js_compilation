@@ -94,6 +94,10 @@ form input {
     padding-right: 40px;
 }
 
+#rock_scissor_paper .button button:last-child {
+    padding-right: 0;
+}
+
 .pic {
     margin: 0 auto;
     font-size: 3rem;
