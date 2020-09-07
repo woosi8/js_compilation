@@ -8,18 +8,8 @@ There are some example of Games and example by VanilaJavascript
 
 ### Lottery
 
-#### How to use
+- Click⚡
 
 ### Baseball
 
 ### Rock-scissor-paper
-
-## Js-compilation
-
-### Accordion
-
-### Drag-and-Drop
-
-### Hover-over the links
-
-## Character-Show
