@@ -13,7 +13,7 @@ There are examples by VanilaJavascript
 
 ### 🔭Skills
 
-- [Accordion.js](https://github.com/woosi8/js_compilation/blob/master/Examples/accodion.js)
+- [Accordion.js](https://github.com/woosi8/js_compilation/blob/master/Examples/accordion.js)
 
 ## Drag and Drop
 
