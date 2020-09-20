@@ -2,24 +2,32 @@
 
 ## Introduction
 
-There are some example of Games and example by VanilaJavascript
+Chracter Show.
+When you click, character will show up.
+And you can control the chracter by pressing up, down, left and right button
 
-## Games
+## wall3d.js
 
-### Lottery
+### How to use
 
-#### How to use
+- Scroll event : move screen transforming translateZ value
 
-### Baseball
+- Resize event : renew scroll value when the screen is resized
 
-### Rock-scissor-paper
+- Mousemove event : the screen will be tilted, according to mouse position value
 
-## Js-compilation
+- Click event : How many you click window, characters will show up
 
-### Accordion
+- Click event_select-character : when you click character button ilbuni or ragirl chracter, it would change the theme
 
-### Drag-and-Drop
+### 🔭Skills
 
-### Hover-over the links
+- [wall3d.js](https://github.com/woosi8/js_compilation/blob/master/Examples/drag-and-drop.js)
 
-## Character-Show
+## Character.js
+
+### 🔭Skills
+
+- Constructor function : Chracter(init,run method)
+
+- [Character.js](https://github.com/woosi8/js_compilation/blob/master/Examples/drag-and-drop.js)
