@@ -22,7 +22,7 @@ And you can control the chracter by pressing up, down, left and right button
 
 ### 🔭Skills
 
-- [wall3d.js](https://github.com/woosi8/js_compilation/blob/master/Examples/drag-and-drop.js)
+- [wall3d.js](https://github.com/woosi8/js_compilation/blob/master/Character%20Show/wall3d.js)
 
 ## Character.js
 
@@ -30,4 +30,4 @@ And you can control the chracter by pressing up, down, left and right button
 
 - Constructor function : Chracter(init,run method)
 
-- [Character.js](https://github.com/woosi8/js_compilation/blob/master/Examples/drag-and-drop.js)
+- [Character.js](https://github.com/woosi8/js_compilation/blob/master/Character%20Show/Character.js)
