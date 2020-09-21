@@ -4,7 +4,7 @@
 
 There are games by VanilaJavascript
 
-## Lottery
+## 🎲 Lottery
 
 ### How to use
 
@@ -15,7 +15,7 @@ There are games by VanilaJavascript
 
 - [Lottery.js](https://github.com/woosi8/js_compilation/blob/master/Games/Lottery.js)
 
-## Baseball
+## ⚾ Baseball
 
 - Homerun : If you get it right number and place
 - Strike : Your pick number get right with number and place
@@ -30,7 +30,7 @@ There are games by VanilaJavascript
 
 - [Baseball.js](https://github.com/woosi8/js_compilation/blob/master/Games/Baseball.js)
 
-## Rock-scissor-paper
+## ✊ Rock-scissor-paper
 
 ### How to use
 

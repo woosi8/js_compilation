@@ -6,7 +6,7 @@ Chracter Show.
 When you click, character will show up.
 And you can control the chracter by pressing up, down, left and right button
 
-## wall3d.js
+## - wall3d.js
 
 ### How to use
 
@@ -24,7 +24,7 @@ And you can control the chracter by pressing up, down, left and right button
 
 - [wall3d.js](https://github.com/woosi8/js_compilation/blob/master/Character%20Show/wall3d.js)
 
-## Character.js
+## - Character.js
 
 ### 🔭Skills
 
