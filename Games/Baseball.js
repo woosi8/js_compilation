@@ -46,7 +46,7 @@ function judgeScore(e) {
     beWrongNumbers += 1;
     if (beWrongNumbers > 5) {
       resultElem.style.color = "#ff0000";
-      resultElem.textContent = `You can't more than 5times, the answer is  ${rightAnswers.join(
+      resultElem.textContent = `It can't be more than 5times, the answer is  ${rightAnswers.join(
         ","
       )} `;
       inputelem.value = "";
