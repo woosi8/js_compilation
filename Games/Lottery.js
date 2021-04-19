@@ -66,5 +66,4 @@ btnElem.addEventListener(
 			printBall(bonus, bonusElem);
 		}, 7000);
 	},
-	{ once: true }
 );
