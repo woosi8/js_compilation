@@ -49,6 +49,9 @@ function printBall(numberElem, result) {
 btnElem.addEventListener(
 	"click",
 	() => {
+		const bonusElem = document.querySelector(".bonus");
+		bonusElem.innerHTML = "";
+		result.innerHTML = "";
 		// Show ball in order of number
 		for (let i = 0; i < numbers.length; i++) {
 			function closure(j) {
@@ -60,7 +63,6 @@ btnElem.addEventListener(
 		}
 		// show bonus after ball
 		setTimeout(function callBack() {
-			const bonusElem = document.querySelector(".bonus");
 			printBall(bonus, bonusElem);
 		}, 7000);
 	},
