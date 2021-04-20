@@ -65,5 +65,5 @@ btnElem.addEventListener(
 		setTimeout(function callBack() {
 			printBall(bonus, bonusElem);
 		}, 7000);
-	},
+	},{ once: true }
 );
