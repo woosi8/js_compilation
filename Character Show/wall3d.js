@@ -22,7 +22,9 @@
   function resizeHandler() {
     maxScrollValue = document.body.offsetHeight - window.innerHeight;
   }
-
+  // Load at first
+  resizeHandler();
+  
   window.addEventListener("mousemove", (e) => {
     // Mouse pointer values
     //     1
@@ -53,6 +55,5 @@
     document.body.setAttribute("data-char", value);
   });
 
-  // Load at first
-  resizeHandler();
+
 })();
